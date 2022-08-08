@@ -14,7 +14,7 @@
         <!-- Customize your theme here. -->
 
     </style>
-<!--    <style name="Theme.Splashscreen" parent="Theme.Test">-->
-<!--        <item name="android:windowBackground">@drawable/splashscreen</item>-->
-<!--    </style>-->
+    <style name="Theme.Splashscreen" parent="Theme.Test">
+        <item name="android:windowBackground">@drawable/splashscreen</item>
+    </style>
 </resources>
